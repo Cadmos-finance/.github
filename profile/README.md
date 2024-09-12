@@ -12,5 +12,5 @@ CADMOS is a fintech innovator leveraging blockchain technology to redefine opera
 Our mission is to democratize access to financial services, making them more accessible and efficient through blockchain technology.
 
 ## Contact Us
-For more information, visit our [website](https://www.cadmos.finance) or contact us directly through our support channels.
+For more information, visit our [Linktree](https://www.linktr.ee/cadmos) or contact us directly through our support channels.
 
