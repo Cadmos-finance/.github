@@ -6,11 +6,11 @@ CADMOS is a fintech innovator leveraging blockchain technology to redefine opera
 ## Our Offerings
 - **Cadmos.Finance**: A blockchain-based platform that transforms private markets, asset management, and fundraising through smart contracts and tokenization. It automates transactions, enhances asset liquidity, and simplifies the management and distribution of digital tokens.
 - **Cadmos.Pay**: A blockchain wallet designed for remittances, payments, and investments, catering to the unbanked and underbanked populations. It provides a neo-bank user experience with a blockchain backend for efficient peer-to-peer transactions.
-- **Cadmos.IO**: A full-stack solution provider for the digital asset universe, supporting the infrastructure needs of blockchain-based financial services.
+- **Consulting Services**: A bespoke full-stack solution provider for the digital asset universe, supporting the infrastructure needs of blockchain-based financial services aligning with our vision.
 
 ## Mission
 Our mission is to democratize access to financial services, making them more accessible and efficient through blockchain technology.
 
 ## Contact Us
-For more information, visit our [Linktree](https://www.linktr.ee/cadmos) or contact us directly through our support channels.
+For more information, visit our [www.cadmos.io](https://www.cadmos.io) or contact us directly through our support channels.
 
