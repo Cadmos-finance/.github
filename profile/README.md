@@ -9,7 +9,7 @@ Cadmos was founded in 2021 to rebuild the stack as one product the user actually
 | Product | What it disintermediates |
 |---|---|
 | [**Cadmos Pay**](https://www.cadmospay.com) | Cross-border payments. Self-custodial money app — stablecoin wallet on Arbitrum, Visa card with Apple/Google Pay, virtual IBAN, DeFi access, tokenized equities, multi-chain deposits, eSIM.|
-| [**Cadmos Finance**](https://cadmos.finance) | Capital markets. End-to-end tokenization infrastructure forprivate-market issuances — investor onboarding, programmable compliance, NAV and settlement, investor and admin portals. |
+| [**Cadmos Finance**](https://cadmos.finance) | Capital markets. End-to-end tokenization infrastructure for funds and private-market issuances — investor onboarding, programmable compliance, NAV and settlement, investor and admin portals. On-chain corporate actions|
 | [**Cadmos IO**](https://cadmos.io) | The seam between the two. Partnership and ecosystem layer — white-label deployments, institutional integrations, group narrative. |
 
 All three are live in production with real customers.
