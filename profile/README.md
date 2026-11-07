@@ -26,7 +26,7 @@ Same user. Same stack. Cadmos Pay users subscribe to Cadmos Finance issuances in
 
 ## Recognition
 
-In 2023, Cadmos Finance won the **CAST Challenge** organised by **Société Générale-FORGE** — with Crédit Agricole CIB, ABN-AMRO, AXA IM, Banco Santander, ICMA, Swift, and Visa as supporting sponsors — for its on-chain Delivery-vs-Payment architecture for security tokens. That same DvP engine settles every Cadmos Finance subscription today.
+In 2023, Cadmos Finance won the **CAST Challenge** organised by **Société Générale-FORGE** — with Crédit Agricole CIB, ABN-AMRO, AXA IM, Banco Santander, ICMA, Swift, and Visa as supporting sponsors — for its on-chain Delivery-vs-Payment architecture for security tokens. The DvP engine continues to settle Cadmos Finance subscriptions in production. The public CAST 2023 submission is preserved as a historical reference.
 
 → Press: [Finyear — *Le CAST Challenge annonce les vainqueurs de sa 2nde édition*](https://finyear.com/Le-CAST-Challenge-annonce-les-vainqueurs-de-sa-2nde-edition_a49734.html)
 
@@ -35,7 +35,7 @@ In 2023, Cadmos Finance won the **CAST Challenge** organised by **Société Gén
 
 Selected open-source code from the Cadmos group:
 
-- **[sc-bonds-dvp-cadmos](https://github.com/Cadmos-finance/sc-bonds-dvp-cadmos)** — On-chain **Delivery-vs-Payment for security tokens**. The reference implementation that won the [2023 CAST   Challenge](https://finyear.com/Le-CAST-Challenge-annonce-les-vainqueurs-de-sa-2nde-edition_a49734.html) organised by Société Générale-FORGE: atomic DvP, DvP with forex, broker-intermediated transactions with no broker capital, programmable compliance, multi-party trade. The same DvP engine settles every Cadmos Finance subscription in production today.
+- **[sc-bonds-dvp-cadmos](https://github.com/Cadmos-finance/sc-bonds-dvp-cadmos)** — On-chain **Delivery-vs-Payment for security tokens**. The historical reference implementation that won the [2023 CAST   Challenge](https://finyear.com/Le-CAST-Challenge-annonce-les-vainqueurs-de-sa-2nde-edition_a49734.html) organised by Société Générale-FORGE: atomic DvP, DvP with forex, broker-intermediated transactions with no broker capital, programmable compliance, multi-party trade. Archived and preserved for reference; this public repository is no longer maintained.
 
 - **[Cadmos-Pay-Recovery](https://github.com/Cadmos-finance/Cadmos-Pay-Recovery)** — Self-custody emergency recovery kit for Cadmos Pay. The proof that Cadmos Pay is genuinely self-custodial: even if the Cadmos app or infrastructure is unavailable, users can recover their assets independently from this open-source contract and front-end.
 
